@@ -5,9 +5,7 @@
   "cordova": {
     "id": "cordova-plugin-background-mode",
     "platforms": [
-      "ios",
-      "android",
-      "browser"
+      "android"
     ]
   },
   "repository": {
@@ -30,10 +28,6 @@
     {
       "name": "android-sdk",
       "version": ">=16"
-    },
-    {
-      "name": "windows-sdk",
-      "version": ">=10.0.14393.0"
     }
   ],
   "author": "Sebastián Katzer",
